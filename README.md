@@ -10,6 +10,13 @@ Boosting and RNN models are used in time series forecasting tasks
 [Explanation for RNN-based](https://github.com/Zhangyuyi-0825/ShapTime/blob/master/Training/RNN-based/ShapTimeRNN.py)
 
 Visualization of Explanation Results:
+![image](https://github.com/Zhangyuyi-0825/ShapTime/blob/master/image/explanation.png)
+
+The darker the color, the more important the time period. This means that the forecasting model more focus on this time period during the training process.
+After that, use the information presented by these explanation results as the guide to retrain the original forecasting model and try to improve the forecasting performance.
+
+[Improvement.ipynb](https://github.com/Zhangyuyi-0825/ShapTime/blob/master/Improvement.ipynb)
+
 
 
 Since IJCAI adopts the double-blind review mechanism, more detailed descriptions need to wait for the feedback from IJCAI.
