@@ -17,6 +17,3 @@ After that, use the information presented by these explanation results as the gu
 
 [Improvement.ipynb](https://github.com/Zhangyuyi-0825/ShapTime/blob/master/Improvement.ipynb)
 
-
-
-Since IJCAI adopts the double-blind review mechanism, more detailed descriptions need to wait for the feedback from IJCAI.
